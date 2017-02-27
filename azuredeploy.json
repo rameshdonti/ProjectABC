@@ -7,9 +7,9 @@
             "metadata": {
                 "description": "Select the appropriate Repository Base URL containing Pattern Templates and Resource Templates"
             },
-            "defaultValue": "https://raw.githubusercontent.com/mrptsai/",
+            "defaultValue": "https://raw.githubusercontent.com/rameshdonti/",
             "allowedValues": [
-                "https://raw.githubusercontent.com/mrptsai/"
+                "https://raw.githubusercontent.com/rameshdonti/"
             ]
         },
         "patternName": {
